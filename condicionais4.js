@@ -1,3 +1,5 @@
+// exercicio 4
+
 let pokemon = 'charmander'
 
 switch(pokemon) {

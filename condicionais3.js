@@ -1,3 +1,5 @@
+// exercicio 3
+
 function receberNum(num1,num2) {
     if (num1 > num2) {
       console.log(`é maior`);

@@ -1,3 +1,5 @@
+// exercicio 2
+
 function receberNum(num1,num2) {
     if (num1 === num2) {
       console.log(`São iguais.`);
